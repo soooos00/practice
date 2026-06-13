@@ -4,3 +4,6 @@
 # 除了你明确要管理的项目
 !.gitignore
 !README.md
+!Desktop/
+!Desktop/cursor learn/
+!Desktop/cursor learn/pomodoro.py
